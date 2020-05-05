@@ -4,7 +4,7 @@
 		module="dama-ui-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20200505152425"
+		publication="20200505184551"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
