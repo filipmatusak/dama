@@ -1,0 +1,462 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes
+compile options:
+2 items
+0 -> -Xplugin:/home/filip/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.11/jars/scalajs-compiler_2.11.11-0.6.17.jar
+1 -> -Xplugin:/home/filip/.ivy2/cache/org.scalamacros/paradise_2.11.11/jars/paradise_2.11.11-2.1.0.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+35 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$2.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$3.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$4.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$5.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$6.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$7.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$4$$anonfun$apply$mcV$sp$8.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$4.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$10.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$9.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$11.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$12.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$13.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$7$$anonfun$apply$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$7.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$8.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$3.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$4.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$TestGame$.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$TestGame.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$2.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$3.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1.class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec.class
+binary dependencies:
+10 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/jars/binding_sjs0.6_2.11-10.0.2.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /home/filip/.ivy2/cache/org.scalatest/scalatest_sjs0.6_2.11/bundles/scalatest_sjs0.6_2.11-3.0.0.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/jars/binding_sjs0.6_2.11-10.0.2.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/.ivy2/cache/org.scalatest/scalatest_sjs0.6_2.11/bundles/scalatest_sjs0.6_2.11-3.0.0.jar
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> /home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala
+member reference external dependencies:
+4 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.Game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.Game$
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.Game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.Game$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+35 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$4
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$5
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$6
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$7
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$4
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$4$$anonfun$apply$mcV$sp$8
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$5
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$10
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$9
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$6
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$11
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$12
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$13
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$7
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$7$$anonfun$apply$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$8
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$createTestGame$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$4
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$TestGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client.GameSpec$TestGame$
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.GameSpecSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.GameSpecSpec$$anonfun$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client.GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$3
+used names:
+240 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> $org_scalatest_assert_macro_expr
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> $org_scalatest_assert_macro_left
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> $org_scalatest_assert_macro_right
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> %
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> &&
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> +
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ::
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> :=
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> <byname>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> <init>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> <repeated>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ==
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> A
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> A1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> AbstractFunction3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Any
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> AnyRef
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Array
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ArrayOps
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Assertion
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> AssertionsHelper
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> B
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Binding
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Black
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Bool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Boolean
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> CanBuildFrom
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Cell
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Char
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Class
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ClassTag
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Coll
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Color
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> FunSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Function1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> GameSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> GenTraversableOnce
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> IndexOutOfBoundsException
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> IndexedSeq
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Int
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ItWord
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Iterator
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> List
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> MatchError
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Nil
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> None
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Nothing
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Object
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Option
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Pawn
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Piece
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Position
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Predef
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Prettifier
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Product
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Queen
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Range
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> RichInt
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ScalaRunTime
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Serializable
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Set
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Some
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> String
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> StringOps
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> T
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> T0
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> T1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> T2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> T3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Tag
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> TestGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> That
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Tuple2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Tuple3
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Typ
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> U
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Unit
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Var
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> Vector
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> White
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _$4
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _$7
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _2
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _hashCode
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> _toString
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> apply
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> asInstanceOf
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> assert
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> assertionsHelper
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> augmentString
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> binaryMacroBool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> binding
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> blackPieces
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> blacks
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> board
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> boardString
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> canBuildFrom
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> char
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> click
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> client
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> collection
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> color
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> com
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> contain
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> contains
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> createSimpleGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> createTestGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> default
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> describe
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> eq
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> exists
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> fallbackStringCanBuildFrom
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> flatMap
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> foreach
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> get
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> grouped
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> handleClick
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> head
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> here
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> i
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> immutable
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> intWrapper
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isBlackTurn
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isCellEmpty
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isEmpty
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isInstanceOf
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isNothingSelected
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isPieceRemoved
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isSelected
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> isWhiteTurn
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> it
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> j
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> macroAssert
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> map
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> materializeClassTag
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> mutable
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ne
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> org
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> package
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> piece
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> pieceOn
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> println
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> refArrayOps
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> reverse
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> row
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> runtime
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> scala
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> scalactic
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> scalatest
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> selectedPiece
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> simpleMacroBool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> source
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> split
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> stripMargin
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> thoughtworks
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> toInt
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> toString
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> toVector
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> turn
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> typ
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> typedProductIterator
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> unary_!
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> until
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> whitePieces
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> whites
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> x
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> y
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> zipWithIndex
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> ||
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> $org_scalatest_assert_macro_expr
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> $org_scalatest_assert_macro_left
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> $org_scalatest_assert_macro_right
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> <byname>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> <init>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> <repeated>
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> ==
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> A1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Any
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Assertion
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> AssertionsHelper
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Binding
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Black
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Bool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Boolean
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Cell
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Color
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> FunSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Function1
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> GameSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> GameSpecSpec
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Int
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> ItWord
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Option
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Piece
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Position
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Predef
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Prettifier
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> String
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> StringOps
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Tag
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> TestGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Unit
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Var
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> Vector
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> White
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> apply
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> assert
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> assertionsHelper
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> augmentString
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> binaryMacroBool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> blacks
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> board
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> client
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> color
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> contains
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> createTestGame
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> default
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> describe
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> forall
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> game
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> get
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> here
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> it
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> lengthSizeMacroBool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> macroAssert
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> org
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> package
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> piece
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> scala
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> scalactic
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> scalatest
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> simpleMacroBool
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> size
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> source
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> stripMargin
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> whites
+product stamps:
+35 items
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$1.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$3.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2$$anonfun$apply$mcV$sp$4.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$2.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$5.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$6.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3$$anonfun$apply$mcV$sp$7.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$3.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$4$$anonfun$apply$mcV$sp$8.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$4.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$10.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5$$anonfun$apply$mcV$sp$9.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$5.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$11.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$12.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6$$anonfun$apply$mcV$sp$13.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$6.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$7$$anonfun$apply$1.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$7.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$8.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2$$anonfun$apply$4.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1$$anonfun$apply$2.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$$anonfun$createTestGame$1.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$TestGame$.class -> lastModified(1588689079000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec$TestGame.class -> lastModified(1588689079000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpec.class -> lastModified(1588689078000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$2.class -> lastModified(1588621611000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1$$anonfun$3.class -> lastModified(1588621611000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1588621611000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec$$anonfun$1.class -> lastModified(1588621611000)
+/home/filip/scalaJS/dama-ui/target/scala-2.11/test-classes/client/GameSpecSpec.class -> lastModified(1588621611000)
+source stamps:
+2 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> hash(c14d51ae0d4e99e9daf3282b88e828eb934c497b)
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> hash(54bc8cbaeffe5e3a16f1559f17d5253396bea9b5)
+binary stamps:
+5 items
+/home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/jars/binding_sjs0.6_2.11-10.0.2.jar -> lastModified(1483208509000)
+/home/filip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar -> lastModified(1470060492000)
+/home/filip/.ivy2/cache/org.scalatest/scalatest_sjs0.6_2.11/bundles/scalatest_sjs0.6_2.11-3.0.0.jar -> lastModified(1470060969000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1586976485000)
+class names:
+5 items
+/home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/jars/binding_sjs0.6_2.11-10.0.2.jar -> com.thoughtworks.binding.Binding$
+/home/filip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.runtime.AbstractFunction3
+/home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar -> org.scalactic.source.Position
+/home/filip/.ivy2/cache/org.scalatest/scalatest_sjs0.6_2.11/bundles/scalatest_sjs0.6_2.11-3.0.0.jar -> org.scalatest.FunSpec
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPgw5iQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDAU1OldAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALCo3Hx3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAHxzcQB+AAtQpbT1dAAGYXNzZXJ0c3EAfgALmJPEV3QAB3N1Y2NlZWRzcQB+AAsWGZftdAAGbm90aWZ5c3EAfgALJiTfRXQAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALMeukKHQAB3VuYXBwbHlzcQB+AAt5vt/ldAAHY3VycmllZHNxAH4ACxpNPKd0ABBBc3NlcnRpb25zSGVscGVyc3EAfgALmPvtRHQABmNhbmNlbHNxAH4ACyFnyxJ0AAlpbnRlcmNlcHRzcQB+AAvwsoXQdAAEZmFpbHNxAH4ACzq2GKR0AARuYW1lc3EAfgALF97a+nQAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALWw0O83QABHdhaXRzcQB+AAttxbtXdAALdGVzdERhdGFGb3JzcQB+AAvGYG70dAATY3JlYXRlQ2F0Y2hSZXBvcnRlcnNxAH4ACxftYuF0AAlzdHlsZU5hbWVzcQB+AAvCHlOmdAAOY29weSRkZWZhdWx0JDJzcQB+AAtpzMiIdAANJGFzSW5zdGFuY2VPZnNxAH4AC/Mz0Xh0AAdwaWVjZU9uc3EAfgALVFuCunQACWNvbmZpZ01hcHNxAH4AC5n+NAF0AAxwcm9kdWN0QXJpdHlzcQB+AAsCkLSudAAGYmxhY2tzc3EAfgALeEe/MnQABmVxdWFsc3NxAH4AC1e5+e90ACxjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb252ZXJzaW9uQ29uc3RyYWludHNxAH4AC6HkS410AA9kZWZhdWx0RXF1YWxpdHlzcQB+AAvgLAdfdAAiY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29uc3RyYWludHNxAH4AC70n+rF0AARtdXN0c3EAfgAL+VKEy3QABndoaXRlc3NxAH4AC8KFPY10AAR0YWdzc3EAfgALlsecgXQADGFzSW5zdGFuY2VPZnNxAH4AC0Lry1R0AAVhbGVydHNxAH4AC2xF2oh0AANydW5zcQB+AAuAsMPWdAAGc2NvcGVzc3EAfgALgGo9F3QAA3Bvc3NxAH4ACx63D8t0AAxzeW5jaHJvbml6ZWRzcQB+AAt4/DAFdAACaXRzcQB+AAu0nB/4dAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAsDusjWdAAMYXNzZXJ0VGhyb3dzc3EAfgALH+YwRXQADSRpc0luc3RhbmNlT2ZzcQB+AAuBlX4XdAAEdHJhcHNxAH4AC2PiGgZ0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAu2M9VmdAAMYXNzZXJ0UmVzdWx0c3EAfgALKpVSnXQABnR1cGxlZHNxAH4ACxiCwG90AAR0ZXh0c3EAfgALHI+j13QALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALey/aynQACGNhbkVxdWFsc3EAfgALwhfWYHQADmlzUGllY2VSZW1vdmVkc3EAfgALxWGdunQAB2NvbnRhaW5zcQB+AAvEdkSCdAAIZGVzY3JpYmVzcQB+AAuYbWDndAAEdGhleXNxAH4AC/QMQrl0AA1wcm9kdWN0UHJlZml4c3EAfgALTeFT0nQAFXR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC2HRshx0AAMhPT1zcQB+AAuCkvpjdAAEaW5mb3NxAH4AC2DbTMV0AAlub3RpZnlBbGxzcQB+AAtmX7bkdAALd2l0aEZpeHR1cmVzcQB+AAs67iyWdAAHcnVuVGVzdHNxAH4AC8uGcHR0AAxpc0luc3RhbmNlT2ZzcQB+AAslCASydAAId2l0aENsdWVzcQB+AAsw34l+dAAQYXNzZXJ0aW9uc0hlbHBlcnNxAH4AC9K7u2N0AAtpc0JsYWNrVHVybnNxAH4AC8t8o7F0AA9hc3NlcnRUeXBlRXJyb3JzcQB+AAspH3Q4dAAGbWFya3Vwc3EAfgAL1zGANnQACGxlZnRTaWRlc3EAfgALR5Jb83QABjxpbml0PnNxAH4AC7vATsp0AAttYWNyb0Fzc3VtZXNxAH4AC8lP3zl0AA9ydW5OZXN0ZWRTdWl0ZXNzcQB+AAtodLd5dAAGSXRXb3Jkc3EAfgALubjRknQABWNsaWNrc3EAfgALTxmEDXQABWFwcGx5c3EAfgALvaSszHQACUVxdWFsaXplcnNxAH4AC1E2+Sh0ABtuZXdBc3NlcnRpb25GYWlsZWRFeGNlcHRpb25zcQB+AAu4qf5JdAAEbm90ZXNxAH4AC9A+8ip0AAI9PXNxAH4AC0iIwJ90ABBjcmVhdGVTaW1wbGVHYW1lc3EAfgALvELsrXQABWNsb25lc3EAfgALPSKelHQABnNob3VsZHNxAH4AC7sGpQN0AAppc1NlbGVjdGVkc3EAfgALwckFEnQADmNyZWF0ZVRlc3RHYW1lc3EAfgALiAp82nQADG5lc3RlZFN1aXRlc3NxAH4AC8QuqhF0AAZhc3N1bWVzcQB+AAu6MpmjdAAIVGVzdEdhbWVzcQB+AAuGv2judAAGJGluaXQkc3EAfgALxr0ZrHQAIGxvd1ByaW9yaXR5VHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALKKGf8nQACFRoZXlXb3Jkc3EAfgALGPeIRHQADHJlZ2lzdGVyVGVzdHNxAH4AC0PoDwh0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC2znJDF0AARjb3B5c3EAfgALg61Lu3QAAz09PXNxAH4AC5Iff490ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAsUgkUgdAAIdG9TdHJpbmdzcQB+AAuLEDZodAAJdGVzdE5hbWVzc3EAfgAL48JFQXQAEWlzTm90aGluZ1NlbGVjdGVkc3EAfgALXmA/W3QAAiE9c3EAfgALgrqiUHQACGdldENsYXNzc3EAfgALLaCi33QAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAs2v5HHdAAGYmVoYXZlc3EAfgALjnE+YXQADmNvcHkkZGVmYXVsdCQxc3EAfgALUFGC3nQACHJ1blRlc3Rzc3EAfgALJ4Kb2HQAEXBlbmRpbmdVbnRpbEZpeGVkc3EAfgALbGNgF3QAEWV4cGVjdGVkVGVzdENvdW50c3EAfgALabvBAnQACHJlcnVubmVyc3EAfgALxTgjfXQABGdhbWVzcQB+AAt6n10VdAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4ACw7KXt50AAJuZXNxAH4ACzToZa90AA5zb3VyY2VGaWxlTmFtZXNxAH4AC4PVqpJ0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC0Hb5Wh0AAdwZW5kaW5nc3EAfgALLdcU/HQAC2lzQ2VsbEVtcHR5c3EAfgALlD9Y6XQAC2lzV2hpdGVUdXJuc3EAfgALJsDFCXQABmlnbm9yZXNxAH4AC3AY3y10AAhHYW1lU3BlY3NxAH4AC3xN2ZF0AAttYWNyb0Fzc2VydHNxAH4ACyvuVE10AAJlcXNxAH4AC+GZzdN0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4ACwtzFzd0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvr2vvvdAAJTm9BcmdUZXN0c3EAfgALFmgcdXQAAiMjc3EAfgALJtOJjnQACGZpbmFsaXplc3EAfgAL3qHTynQAG2NvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4ACz0d2cF0AA5wcm9kdWN0RWxlbWVudHNxAH4AC2Nl43R0AAhoYXNoQ29kZXNxAH4AC2bcFR90AAdzdWl0ZUlkc3EAfgALmVY1R3QACXN1aXRlTmFtZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ARN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA9jbGllbnQuR2FtZVNwZWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AS1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BE0wACWluaGVyaXRlZHEAfgETTAAHcGFyZW50c3EAfgETeHEAfgEyc3EAfgEtdXEAfgEOAAAAAHNxAH4BLXVxAH4BDgAAAABzcQB+AS11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAEHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ATF0AAdGdW5TcGVjc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgExc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AUp0AAlzY2FsYXRlc3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BS3NxAH4BPnQAC0Z1blNwZWNMaWtlcQB+AURzcQB+AT50AAtEb2N1bWVudGluZ3EAfgFEc3EAfgE+dAAIQWxlcnRpbmdxAH4BRHNxAH4BPnQACU5vdGlmeWluZ3EAfgFEc3EAfgE+dAAJSW5mb3JtaW5ncQB+AURzcQB+AT50ABBUZXN0UmVnaXN0cmF0aW9ucQB+AURzcQB+AT50AAlUZXN0U3VpdGVxAH4BRHNxAH4BPnQABVN1aXRlcQB+AURzcQB+AT50AAxTZXJpYWxpemFibGVzcQB+AUJzcQB+AUV1cQB+AUgAAAACc3EAfgFKdAAFc2NhbGFxAH4BUXNxAH4BPnEAfgFjc3EAfgFCc3EAfgFFdXEAfgFIAAAAA3NxAH4BSnQABGphdmFzcQB+AUp0AAJpb3EAfgFRc3EAfgE+dAAKQXNzZXJ0aW9uc3EAfgFEc3EAfgE+dAAMVHJpcGxlRXF1YWxzc3EAfgFCc3EAfgFFdXEAfgFIAAAAA3NxAH4BSnQAA29yZ3NxAH4BSnQACXNjYWxhY3RpY3EAfgFRc3EAfgE+dAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgF1c3EAfgE+dAAGT2JqZWN0c3EAfgFCc3EAfgFFdXEAfgFIAAAAA3NxAH4BSnEAfgFuc3EAfgFKdAAEbGFuZ3EAfgFRc3EAfgE+dAADQW55cQB+AWRzcQB+ARBxAH4BHXVxAH4BHgAAAABzcQB+ASAAdAAPY2xpZW50LkdhbWVTcGVjdXEAfgEjAAAAAH5xAH4BJXQABk1vZHVsZXVxAH4BKQAAAABzcQB+AS1xAH4BM3NxAH4BLXNxAH4BNXNxAH4BLXVxAH4BDgAAAABzcQB+AS11cQB+AQ4AAAAAc3EAfgEtdXEAfgE8AAAABHNxAH4BPnEAfgFjc3EAfgFCc3EAfgFFdXEAfgFIAAAAAnNxAH4BSnEAfgFocQB+AVFzcQB+AT5xAH4BY3NxAH4BQnNxAH4BRXVxAH4BSAAAAANzcQB+AUpxAH4BbnNxAH4BSnQAAmlvcQB+AVFzcQB+AT5xAH4Bf3NxAH4BQnNxAH4BRXVxAH4BSAAAAANzcQB+AUpxAH4BbnNxAH4BSnEAfgGFcQB+AVFzcQB+AT5xAH4Bh3EAfgGadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAGY2xpZW50c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFx5T968nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADovaG9tZS9maWxpcC9zY2FsYUpTL2RhbWEtdWkvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUwU1Rrg1Omena8ygriOgo65NMSXs=
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwc1/dwwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHA63SzOdAAVdW5jb25zdHJhaW5lZEVxdWFsaXR5c3EAfgALeVXDg3QAEmNvbnZlcnRUb0VxdWFsaXplcnVxAH4ACQAAAGFzcQB+AAuFd+HQdAAGYXNzZXJ0c3EAfgALGIXBhHQAB3N1Y2NlZWRzcQB+AAvchoyYdAAGbm90aWZ5c3EAfgALO6uLZ3QAJmxvd1ByaW9yaXR5Q29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALvt+q5nQAEEFzc2VydGlvbnNIZWxwZXJzcQB+AAtQa3+QdAAGY2FuY2Vsc3EAfgALW71ohXQACWludGVyY2VwdHNxAH4AC9qLVNB0AARmYWlsc3EAfgALklzQgHQABG5hbWVzcQB+AAtNwls2dAAUYXNzZXJ0RG9lc05vdENvbXBpbGVzcQB+AAs2l0pKdAAEd2FpdHNxAH4AC4pJ6Sp0AAt0ZXN0RGF0YUZvcnNxAH4AC+UME/p0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALs+kT0XQACXN0eWxlTmFtZXNxAH4AC9kaD9l0AA0kYXNJbnN0YW5jZU9mc3EAfgALuC5QZHQACWNvbmZpZ01hcHNxAH4ACxdiNdd0AAZlcXVhbHNzcQB+AAs/I67MdAAsY29udmVydEVxdWl2YWxlbmNlVG9BVG9CQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAtWMoj6dAAPZGVmYXVsdEVxdWFsaXR5c3EAfgALEty/iHQAImNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnN0cmFpbnRzcQB+AAtStJYJdAAEbXVzdHNxAH4AC73t72J0AAR0YWdzc3EAfgALhzmrOXQADGFzSW5zdGFuY2VPZnNxAH4AC0otK7F0AAVhbGVydHNxAH4AC7SnVK50AANydW5zcQB+AAsd7ZoTdAAGc2NvcGVzc3EAfgALE4nBTHQAA3Bvc3NxAH4AC1QXVkx0AAxzeW5jaHJvbml6ZWRzcQB+AAvgvf5WdAACaXRzcQB+AAvILeOHdAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAt4IV+RdAAMYXNzZXJ0VGhyb3dzc3EAfgALdc9ulXQADSRpc0luc3RhbmNlT2ZzcQB+AAsLgZRldAAEdHJhcHNxAH4AC7qba7d0ABV0ZXN0RGF0YUZvciRkZWZhdWx0JDJzcQB+AAurZTP7dAAMYXNzZXJ0UmVzdWx0c3EAfgALWWin13QADEdhbWVTcGVjU3BlY3NxAH4AC7E/1Np0AAR0ZXh0c3EAfgALnD18N3QALGNvbnZlcnRFcXVpdmFsZW5jZVRvQlRvQUNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALas5ginQACGRlc2NyaWJlc3EAfgALDlExbXQABHRoZXlzcQB+AAvSGiiIdAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALyZmh7nQAAyE9PXNxAH4ACyBgo7V0AARpbmZvc3EAfgALd2bw2HQACW5vdGlmeUFsbHNxAH4AC9Z6iw10AAt3aXRoRml4dHVyZXNxAH4AC6lXG8N0AAdydW5UZXN0c3EAfgAL2ldvMnQADGlzSW5zdGFuY2VPZnNxAH4AC45+Uax0AAh3aXRoQ2x1ZXNxAH4ACygDCNJ0ABBhc3NlcnRpb25zSGVscGVyc3EAfgALhXPB73QAD2Fzc2VydFR5cGVFcnJvcnNxAH4AC72uVeB0AAZtYXJrdXBzcQB+AAtMJiHndAAIbGVmdFNpZGVzcQB+AAtIu5BNdAAGPGluaXQ+c3EAfgALV2rWjnQAC21hY3JvQXNzdW1lc3EAfgALy6yz03QAD3J1bk5lc3RlZFN1aXRlc3NxAH4ACy0wBqB0AAZJdFdvcmRzcQB+AAsabAPHdAAFYXBwbHlzcQB+AAsaiPSodAAJRXF1YWxpemVyc3EAfgAL5+KT/XQAG25ld0Fzc2VydGlvbkZhaWxlZEV4Y2VwdGlvbnNxAH4AC4IrrB90AARub3Rlc3EAfgALhqMfjHQAAj09c3EAfgAL4rjI6XQABWNsb25lc3EAfgALGpsLKXQABnNob3VsZHNxAH4AC6vNpl10AAxuZXN0ZWRTdWl0ZXNzcQB+AAt3DcL6dAAGYXNzdW1lc3EAfgAL02bHaHQABiRpbml0JHNxAH4AC+BbEjh0ACBsb3dQcmlvcml0eVR5cGVDaGVja2VkQ29uc3RyYWludHNxAH4AC3TTVo50AAhUaGV5V29yZHNxAH4AC2sT2H50AAxyZWdpc3RlclRlc3RzcQB+AAuXOtG7dAADPT09c3EAfgALmBeksHQAGG5ld1Rlc3RDYW5jZWxlZEV4Y2VwdGlvbnNxAH4AC/22vYR0AAh0b1N0cmluZ3NxAH4AC3q0aYh0AAl0ZXN0TmFtZXNzcQB+AAt99UYpdAACIT1zcQB+AAs+h36CdAAIZ2V0Q2xhc3NzcQB+AAvUBWVwdAATcmVnaXN0ZXJJZ25vcmVkVGVzdHNxAH4AC0xgkFR0AAZiZWhhdmVzcQB+AAtNWw7OdAAIcnVuVGVzdHNzcQB+AAtmiohVdAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAuC7IRfdAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAsL0zeEdAAIcmVydW5uZXJzcQB+AAsmVUQDdAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4AC14O/0t0AAJuZXNxAH4AC6reBPx0AA5zb3VyY2VGaWxlTmFtZXNxAH4AC6VQNrJ0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC4KyoaF0AAdwZW5kaW5nc3EAfgALQve+FHQABmlnbm9yZXNxAH4AC+KpjBp0AAttYWNyb0Fzc2VydHNxAH4AC6ytFVp0AAJlcXNxAH4AC5PMevx0ABpjb252ZXJ0VG9DaGVja2luZ0VxdWFsaXplcnNxAH4AC7hv+SZ0AAlOb0FyZ1Rlc3RzcQB+AAvFZDLIdAACIyNzcQB+AAt2Z4ObdAAIZmluYWxpemVzcQB+AAuItJhAdAAbY29udmVyc2lvbkNoZWNrZWRDb25zdHJhaW50c3EAfgALF3K6mnQACGhhc2hDb2Rlc3EAfgAL9CpCCXQAB3N1aXRlSWRzcQB+AAt3IXzKdAAJc3VpdGVOYW1lc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A3XhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE2NsaWVudC5HYW1lU3BlY1NwZWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+APdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A3UwACWluaGVyaXRlZHEAfgDdTAAHcGFyZW50c3EAfgDdeHEAfgD8c3EAfgD3dXEAfgDYAAAAAHNxAH4A93VxAH4A2AAAAABzcQB+APd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAEHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+APt0AAdGdW5TcGVjc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgD7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+ARR0AAlzY2FsYXRlc3RzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BFXNxAH4BCHQAC0Z1blNwZWNMaWtlcQB+AQ5zcQB+AQh0AAtEb2N1bWVudGluZ3EAfgEOc3EAfgEIdAAIQWxlcnRpbmdxAH4BDnNxAH4BCHQACU5vdGlmeWluZ3EAfgEOc3EAfgEIdAAJSW5mb3JtaW5ncQB+AQ5zcQB+AQh0ABBUZXN0UmVnaXN0cmF0aW9ucQB+AQ5zcQB+AQh0AAlUZXN0U3VpdGVxAH4BDnNxAH4BCHQABVN1aXRlcQB+AQ5zcQB+AQh0AAxTZXJpYWxpemFibGVzcQB+AQxzcQB+AQ91cQB+ARIAAAACc3EAfgEUdAAFc2NhbGFxAH4BG3NxAH4BCHEAfgEtc3EAfgEMc3EAfgEPdXEAfgESAAAAA3NxAH4BFHQABGphdmFzcQB+ARR0AAJpb3EAfgEbc3EAfgEIdAAKQXNzZXJ0aW9uc3EAfgEOc3EAfgEIdAAMVHJpcGxlRXF1YWxzc3EAfgEMc3EAfgEPdXEAfgESAAAAA3NxAH4BFHQAA29yZ3NxAH4BFHQACXNjYWxhY3RpY3EAfgEbc3EAfgEIdAATVHJpcGxlRXF1YWxzU3VwcG9ydHEAfgE/c3EAfgEIdAAGT2JqZWN0c3EAfgEMc3EAfgEPdXEAfgESAAAAA3NxAH4BFHEAfgE4c3EAfgEUdAAEbGFuZ3EAfgEbc3EAfgEIdAADQW55cQB+AS51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAZjbGllbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXHhOgzudXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRUvIy67/5eOhbxVZ8X1SUzlr6ptQ==
+external apis:
+2 items
+client.Game -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBMBGqQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0/wD5HQAC3RyeUFkZFF1ZWVuc3EAfgAMS2QzX3QABm5vdGlmeXNxAH4ADKCwU5t0AAd1bmFwcGx5c3EAfgAMRCot8XQAB2N1cnJpZWRzcQB+AAxfSAe1dAABeHNxAH4ADESnNbx0AAdzdWNjZXNzc3EAfgAMAhL+FHQABHdhaXRzcQB+AAwmIJjmdAAQPGluaXQ+JGRlZmF1bHQkNXNxAH4ADM5JOah0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADAKDo4l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMXahaQ3QABmp1bXBlZHNxAH4ADD60OS90ABA8aW5pdD4kZGVmYXVsdCQ2c3EAfgAM9uBVc3QADmNvcHkkZGVmYXVsdCQ1c3EAfgAM4pft8nQADHByb2R1Y3RBcml0eXNxAH4ADBYfEf50AAZlcXVhbHNzcQB+AAy2pDVkdAAGbW92ZVRvc3EAfgAMFcic3XQAAXlzcQB+AAzFIT48dAAHY2FuSnVtcHNxAH4ADMmEWPV0AAxhc0luc3RhbmNlT2ZzcQB+AAwIeJkAdAAKTW92ZVJlc3VsdHNxAH4ADBm2n0V0AAxzeW5jaHJvbml6ZWRzcQB+AAwCSjDfdAALc2VsZWN0UGllY2VzcQB+AAxfoG+OdAANJGlzSW5zdGFuY2VPZnNxAH4ADCdIsj90AAZjcmVhdGVzcQB+AAxyje72dAAFV2hpdGVzcQB+AAzBhrI5dAAGdHVwbGVkc3EAfgAMntvmu3QAC3JlbW92ZVBpZWNlc3EAfgAMXQNZ/3QACHNlbGVjdGVkc3EAfgAMt2SovnQACG5leHRUdXJuc3EAfgAMYjfFbHQAA1R5cHNxAH4ADF1N9dd0AAhjYW5FcXVhbHNxAH4ADFZSxiN0AAVCbGFja3NxAH4ADI0+66F0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOPetXJ0AAVjb2xvcnNxAH4ADI0JcN10AA1wcm9kdWN0UHJlZml4c3EAfgAMOX3PAHQACW5vdGlmeUFsbHNxAH4ADKa6xZB0AAd0cnlNb3Zlc3EAfgAMnq6lWnQADGlzSW5zdGFuY2VPZnNxAH4ADOdpzGl0AAZzZWxlY3RzcQB+AAzmVYDNdAAEQ2VsbHNxAH4ADKi0AjR0AAY8aW5pdD5zcQB+AAyhVEQ+dAAER2FtZXNxAH4ADGRQAIF0AAZyZW1vdmVzcQB+AAwXglPDdAAFYXBwbHlzcQB+AAwv5etsdAAFYm9hcmRzcQB+AAxDCTqMdAAFUXVlZW5zcQB+AAwl0slWdAACPT1zcQB+AAxvkbU1dAANc2VsZWN0ZWRQaWVjZXNxAH4ADH12SfJ0AAtoYW5kbGVDbGlja3NxAH4ADGqSmO10AAVjbG9uZXNxAH4ADGSiz450AAN0eXBzcQB+AAx8CZ6jdAAGJGluaXQkc3EAfgAMyCVnWHQABHR1cm5zcQB+AAwYyMcGdAAOY29weSRkZWZhdWx0JDNzcQB+AAwgsXludAAEY29weXNxAH4ADJAaOrd0AAtzdGFydGVkSnVtcHNxAH4ADLIXaOZ0AAhwb3NpdGlvbnNxAH4ADKgfMil0AAh0b1N0cmluZ3NxAH4ADN+p9Gx0AAIhPXNxAH4ADHHXZ1B0AARQYXduc3EAfgAMsvasanQACHVuc2VsZWN0c3EAfgAMQxjyIXQACGdldENsYXNzc3EAfgAMx+4hlnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMoxUo4nQABnJlbmRlcnNxAH4ADA7E8Vd0AAt3aGl0ZVBpZWNlc3NxAH4ADBZk9fB0AAVDb2xvcnNxAH4ADKxWWEV0AAJuZXNxAH4ADMOQYIl0AAJlcXNxAH4ADGfbPmB0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxV59ZLdAALYmxhY2tQaWVjZXNzcQB+AAyLg161dAACIyNzcQB+AAxI3azedAAIZmluYWxpemVzcQB+AAxYrxcZdAAFUGllY2VzcQB+AAyUFJQudAAFcGllY2VzcQB+AAzZnoi5dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzGBuHOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAALY2xpZW50LkdhbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ax3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCvTAAJaW5oZXJpdGVkcQB+AK9MAAdwYXJlbnRzcQB+AK94cQB+AMxzcQB+AMd1cQB+AKoAAAAAc3EAfgDHdXEAfgCqAAAAAHNxAH4Ax3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ay3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ay3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A5HQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5XNxAH4A2HQAA0FueXNxAH4A3HNxAH4A33VxAH4A4gAAAAJzcQB+AOR0AAVzY2FsYXEAfgDrc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHQAC2NsaWVudC5HYW1ldXEAfgC/AAAAAH5xAH4AwXQABk1vZHVsZXVxAH4AxQAAAABzcQB+AMdxAH4AzXNxAH4Ax3NxAH4Az3NxAH4Ax3VxAH4AqgAAAABzcQB+AMd1cQB+AKoAAAAAc3EAfgDHdXEAfgDWAAAAAnNxAH4A2HEAfgDbc3EAfgDcc3EAfgDfdXEAfgDiAAAAA3NxAH4A5HEAfgDnc3EAfgDkcQB+AOlxAH4A63NxAH4A2HEAfgDtc3EAfgDcc3EAfgDfdXEAfgDiAAAAAnNxAH4A5HEAfgDycQB+AOt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjbGllbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXHlPbu3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANS9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFzvxxxoRIIpMZW3x+1E7CQ2NMHM=
+client.Game$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBMBGqQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABMc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0/wD5HQAC3RyeUFkZFF1ZWVuc3EAfgAMS2QzX3QABm5vdGlmeXNxAH4ADKCwU5t0AAd1bmFwcGx5c3EAfgAMRCot8XQAB2N1cnJpZWRzcQB+AAxfSAe1dAABeHNxAH4ADESnNbx0AAdzdWNjZXNzc3EAfgAMAhL+FHQABHdhaXRzcQB+AAwmIJjmdAAQPGluaXQ+JGRlZmF1bHQkNXNxAH4ADM5JOah0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADAKDo4l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMXahaQ3QABmp1bXBlZHNxAH4ADD60OS90ABA8aW5pdD4kZGVmYXVsdCQ2c3EAfgAM9uBVc3QADmNvcHkkZGVmYXVsdCQ1c3EAfgAM4pft8nQADHByb2R1Y3RBcml0eXNxAH4ADBYfEf50AAZlcXVhbHNzcQB+AAy2pDVkdAAGbW92ZVRvc3EAfgAMFcic3XQAAXlzcQB+AAzFIT48dAAHY2FuSnVtcHNxAH4ADMmEWPV0AAxhc0luc3RhbmNlT2ZzcQB+AAwIeJkAdAAKTW92ZVJlc3VsdHNxAH4ADBm2n0V0AAxzeW5jaHJvbml6ZWRzcQB+AAwCSjDfdAALc2VsZWN0UGllY2VzcQB+AAxfoG+OdAANJGlzSW5zdGFuY2VPZnNxAH4ADCdIsj90AAZjcmVhdGVzcQB+AAxyje72dAAFV2hpdGVzcQB+AAzBhrI5dAAGdHVwbGVkc3EAfgAMntvmu3QAC3JlbW92ZVBpZWNlc3EAfgAMXQNZ/3QACHNlbGVjdGVkc3EAfgAMt2SovnQACG5leHRUdXJuc3EAfgAMYjfFbHQAA1R5cHNxAH4ADF1N9dd0AAhjYW5FcXVhbHNxAH4ADFZSxiN0AAVCbGFja3NxAH4ADI0+66F0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOPetXJ0AAVjb2xvcnNxAH4ADI0JcN10AA1wcm9kdWN0UHJlZml4c3EAfgAMOX3PAHQACW5vdGlmeUFsbHNxAH4ADKa6xZB0AAd0cnlNb3Zlc3EAfgAMnq6lWnQADGlzSW5zdGFuY2VPZnNxAH4ADOdpzGl0AAZzZWxlY3RzcQB+AAzmVYDNdAAEQ2VsbHNxAH4ADKi0AjR0AAY8aW5pdD5zcQB+AAyhVEQ+dAAER2FtZXNxAH4ADGRQAIF0AAZyZW1vdmVzcQB+AAwXglPDdAAFYXBwbHlzcQB+AAwv5etsdAAFYm9hcmRzcQB+AAxDCTqMdAAFUXVlZW5zcQB+AAwl0slWdAACPT1zcQB+AAxvkbU1dAANc2VsZWN0ZWRQaWVjZXNxAH4ADH12SfJ0AAtoYW5kbGVDbGlja3NxAH4ADGqSmO10AAVjbG9uZXNxAH4ADGSiz450AAN0eXBzcQB+AAx8CZ6jdAAGJGluaXQkc3EAfgAMyCVnWHQABHR1cm5zcQB+AAwYyMcGdAAOY29weSRkZWZhdWx0JDNzcQB+AAwgsXludAAEY29weXNxAH4ADJAaOrd0AAtzdGFydGVkSnVtcHNxAH4ADLIXaOZ0AAhwb3NpdGlvbnNxAH4ADKgfMil0AAh0b1N0cmluZ3NxAH4ADN+p9Gx0AAIhPXNxAH4ADHHXZ1B0AARQYXduc3EAfgAMsvasanQACHVuc2VsZWN0c3EAfgAMQxjyIXQACGdldENsYXNzc3EAfgAMx+4hlnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMoxUo4nQABnJlbmRlcnNxAH4ADA7E8Vd0AAt3aGl0ZVBpZWNlc3NxAH4ADBZk9fB0AAVDb2xvcnNxAH4ADKxWWEV0AAJuZXNxAH4ADMOQYIl0AAJlcXNxAH4ADGfbPmB0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxV59ZLdAALYmxhY2tQaWVjZXNzcQB+AAyLg161dAACIyNzcQB+AAxI3azedAAIZmluYWxpemVzcQB+AAxYrxcZdAAFUGllY2VzcQB+AAyUFJQudAAFcGllY2VzcQB+AAzZnoi5dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzGBuHOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAALY2xpZW50LkdhbWV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ax3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCvTAAJaW5oZXJpdGVkcQB+AK9MAAdwYXJlbnRzcQB+AK94cQB+AMxzcQB+AMd1cQB+AKoAAAAAc3EAfgDHdXEAfgCqAAAAAHNxAH4Ax3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ay3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ay3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A5HQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5XNxAH4A2HQAA0FueXNxAH4A3HNxAH4A33VxAH4A4gAAAAJzcQB+AOR0AAVzY2FsYXEAfgDrc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHQAC2NsaWVudC5HYW1ldXEAfgC/AAAAAH5xAH4AwXQABk1vZHVsZXVxAH4AxQAAAABzcQB+AMdxAH4AzXNxAH4Ax3NxAH4Az3NxAH4Ax3VxAH4AqgAAAABzcQB+AMd1cQB+AKoAAAAAc3EAfgDHdXEAfgDWAAAAAnNxAH4A2HEAfgDbc3EAfgDcc3EAfgDfdXEAfgDiAAAAA3NxAH4A5HEAfgDnc3EAfgDkcQB+AOlxAH4A63NxAH4A2HEAfgDtc3EAfgDcc3EAfgDfdXEAfgDiAAAAAnNxAH4A5HEAfgDycQB+AOt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjbGllbnRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXHlPbu3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANS9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUFzvxxxoRIIpMZW3x+1E7CQ2NMHM=
+source infos:
+2 items
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpec.scala -> 
+AAAAAAAAAAA=
+/home/filip/scalaJS/dama-ui/src/test/scala/client/GameSpecSpec.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceE6DO51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceE6lrV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceE7IVh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceE8bKt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceE+QUd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceFR8Th1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUfxtd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUqPFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUqvT91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUtFs11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUt/S51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceUwqTB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceU0qad1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceU3L+11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceU3vpZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABceU/evJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2ZpbGlwL3NjYWxhSlMvZGFtYS11aS90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv

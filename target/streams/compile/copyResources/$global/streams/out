@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/index-dev.html,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/index-dev.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/index.html,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/index.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/js,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/js)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/css,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/css)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/js/materialize.js,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/js/materialize.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/js/materialize.min.js,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/js/materialize.min.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/css/materialize.min.css,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/css/materialize.min.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/css/materialize.css,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/css/materialize.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/filip/scalaJS/dama-ui/src/main/resources/css/main.css,/home/filip/scalaJS/dama-ui/target/scala-2.11/classes/css/main.css)[0m

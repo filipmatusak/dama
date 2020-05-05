@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.thoughtworks.extractor:extractor_sjs0.6_2.11:1.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.thoughtworks.extractor/extractor_sjs0.6_2.11/jars/extractor_sjs0.6_2.11-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.thoughtworks.extractor/extractor_sjs0.6_2.11/srcs/extractor_sjs0.6_2.11-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

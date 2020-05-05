@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0m[32mGameSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mhandle click[0m[0m
+[0m[[0minfo[0m] [0m[32m- should doesn't select any piece[0m[0m
+[0m[[0minfo[0m] [0m[32m- should select piece[0m[0m
+[0m[[0minfo[0m] [0m[32mmove pawn[0m[0m
+[0m[[0minfo[0m] [0m[32m- should doesn't move pawn[0m[0m
+[0m[[0minfo[0m] [0m[32m- should move pawns[0m[0m
+[0m[[0minfo[0m] [0m[32mpawn jump[0m[0m
+[0m[[0minfo[0m] [0m[32m- should jump one piece[0m[0m
+[0m[[0minfo[0m] [0m[32m- should jump multiple piece[0m[0m
+[0m[[0minfo[0m] [0m[32m- should doesn't jump multiple piece[0m[0m
+[0m[[0minfo[0m] [0m[32mqueen add[0m[0m
+[0m[[0minfo[0m] [0m[32m- should add queen[0m[0m
+[0m[[0minfo[0m] [0m[32mqueen move[0m[0m
+[0m[[0minfo[0m] [0m[32m- should move queen 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should move queen 2[0m[0m
+[0m[[0minfo[0m] [0m[32mqueen jump[0m[0m
+[0m[[0minfo[0m] [0m[32m- should jump one piece[0m[0m
+[0m[[0minfo[0m] [0m[32m- should jump more pieces[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not jump over row of pieces[0m[0m

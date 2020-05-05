@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="dama"
+		module="dama_sjs0.6_2.11"
+		revision="0.1-SNAPSHOT"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, phantom-js-jetty"
+		date="20200504200052"/>
+	<dependencies>
+		<module organisation="org.scalactic" name="scalactic_2.11">
+			<revision name="3.0.0" status="release" pubdate="20160801160816" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="20">
+				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2967" time="0" location="/home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/ivy-3.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.0/scalactic_2.11-3.0.0.pom"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="3.0.0" rev-constraint-default="3.0.0" rev-constraint-dynamic="3.0.0" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="scalactic_2.11" type="bundle" ext="jar" status="no" details="" size="739283" time="0" location="/home/filip/.ivy2/cache/org.scalactic/scalactic_2.11/bundles/scalactic_2.11-3.0.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.0/scalactic_2.11-3.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11">
+			<revision name="10.0.2" status="release" pubdate="20161231192555" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/Binding.scala" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="10">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="4359" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/dom_sjs0.6_2.11/ivy-10.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/binding/dom_sjs0.6_2.11/10.0.2/dom_sjs0.6_2.11-10.0.2.pom"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="10.0.2" rev-constraint-default="10.0.2" rev-constraint-dynamic="10.0.2" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="dom_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="125019" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/dom_sjs0.6_2.11/jars/dom_sjs0.6_2.11-10.0.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/binding/dom_sjs0.6_2.11/10.0.2/dom_sjs0.6_2.11-10.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.11">
+			<revision name="1.0.6" status="release" pubdate="20160920112614" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="19">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="3137" time="0" location="/home/filip/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/ivy-1.0.6.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.6/scala-xml_2.11-1.0.6.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="1.0.6" rev-constraint-default="1.0.6" rev-constraint-dynamic="1.0.6" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="scala-xml_2.11" type="bundle" ext="jar" status="no" details="" size="670395" time="0" location="/home/filip/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.6.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.6/scala-xml_2.11-1.0.6.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11">
+			<revision name="0.6.2" status="release" pubdate="20161022114212" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/lihaoyi/scalatags" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="17">
+				<license name="MIT license" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3820" time="0" location="/home/filip/.ivy2/cache/com.lihaoyi/scalatags_sjs0.6_2.11/ivy-0.6.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/lihaoyi/scalatags_sjs0.6_2.11/0.6.2/scalatags_sjs0.6_2.11-0.6.2.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.2" rev-constraint-default="0.6.2" rev-constraint-dynamic="0.6.2" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="scalatags_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="1698001" time="0" location="/home/filip/.ivy2/cache/com.lihaoyi/scalatags_sjs0.6_2.11/jars/scalatags_sjs0.6_2.11-0.6.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lihaoyi/scalatags_sjs0.6_2.11/0.6.2/scalatags_sjs0.6_2.11-0.6.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.lihaoyi" name="sourcecode_sjs0.6_2.11">
+			<revision name="0.1.3" status="release" pubdate="20161021193118" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/lihaoyi/sourcecode" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="18">
+				<license name="MIT license" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3268" time="0" location="/home/filip/.ivy2/cache/com.lihaoyi/sourcecode_sjs0.6_2.11/ivy-0.1.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_sjs0.6_2.11/0.1.3/sourcecode_sjs0.6_2.11-0.1.3.pom"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="0.1.3" rev-constraint-default="0.1.3" rev-constraint-dynamic="0.1.3" callerrev="0.6.2"/>
+				<artifacts>
+					<artifact name="sourcecode_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="198953" time="0" location="/home/filip/.ivy2/cache/com.lihaoyi/sourcecode_sjs0.6_2.11/jars/sourcecode_sjs0.6_2.11-0.1.3.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_sjs0.6_2.11/0.1.3/sourcecode_sjs0.6_2.11-0.1.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.extractor" name="extractor_2.11">
+			<revision name="1.1.1" status="release" pubdate="20161104024544" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/Extractor.scala" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="15">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="2931" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.extractor/extractor_2.11/ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/extractor/extractor_2.11/1.1.1/extractor_2.11-1.1.1.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="extractor_2.11" type="jar" ext="jar" status="no" details="" size="25356" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.extractor/extractor_2.11/jars/extractor_2.11-1.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/extractor/extractor_2.11/1.1.1/extractor_2.11-1.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.chuusai" name="shapeless_2.11">
+			<revision name="2.3.2" status="release" pubdate="20160818135130" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/milessabin/shapeless" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="16">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3226" time="0" location="/home/filip/.ivy2/cache/com.chuusai/shapeless_2.11/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/2.3.2/shapeless_2.11-2.3.2.pom"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_2.11" conf="compile, runtime" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="1.1.1"/>
+				<artifacts>
+					<artifact name="shapeless_2.11" type="bundle" ext="jar" status="no" details="" size="3522616" time="0" location="/home/filip/.ivy2/cache/com.chuusai/shapeless_2.11/bundles/shapeless_2.11-2.3.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/chuusai/shapeless_2.11/2.3.2/shapeless_2.11-2.3.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11">
+			<revision name="10.0.2" status="release" pubdate="20161231192156" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/Binding.scala" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="11">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3734" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/xmlextractor_sjs0.6_2.11/ivy-10.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/binding/xmlextractor_sjs0.6_2.11/10.0.2/xmlextractor_sjs0.6_2.11-10.0.2.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="10.0.2" rev-constraint-default="10.0.2" rev-constraint-dynamic="10.0.2" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="xmlextractor_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="196287" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/xmlextractor_sjs0.6_2.11/jars/xmlextractor_sjs0.6_2.11-10.0.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/binding/xmlextractor_sjs0.6_2.11/10.0.2/xmlextractor_sjs0.6_2.11-10.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-lang3">
+			<revision name="3.4" status="release" pubdate="20150403143112" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-lang/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="14">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="11673" time="0" location="/home/filip/.ivy2/cache/org.apache.commons/commons-lang3/ivy-3.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="3.4" rev-constraint-default="3.4" rev-constraint-dynamic="3.4" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="commons-lang3" type="jar" ext="jar" status="no" details="" size="434678" time="0" location="/home/filip/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.4.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.extractor" name="extractor_sjs0.6_2.11">
+			<revision name="1.1.1" status="release" pubdate="20161104024535" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/Extractor.scala" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="12">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3247" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.extractor/extractor_sjs0.6_2.11/ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/extractor/extractor_sjs0.6_2.11/1.1.1/extractor_sjs0.6_2.11-1.1.1.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="extractor_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="51459" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.extractor/extractor_sjs0.6_2.11/jars/extractor_sjs0.6_2.11-1.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/extractor/extractor_sjs0.6_2.11/1.1.1/extractor_sjs0.6_2.11-1.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.chuusai" name="shapeless_sjs0.6_2.11">
+			<revision name="2.3.2" status="release" pubdate="20160818135142" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/milessabin/shapeless" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="13">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3547" time="0" location="/home/filip/.ivy2/cache/com.chuusai/shapeless_sjs0.6_2.11/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/chuusai/shapeless_sjs0.6_2.11/2.3.2/shapeless_sjs0.6_2.11-2.3.2.pom"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_sjs0.6_2.11" conf="compile, runtime" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="1.1.1"/>
+				<artifacts>
+					<artifact name="shapeless_sjs0.6_2.11" type="bundle" ext="jar" status="no" details="" size="6314860" time="0" location="/home/filip/.ivy2/cache/com.chuusai/shapeless_sjs0.6_2.11/bundles/shapeless_sjs0.6_2.11-2.3.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/chuusai/shapeless_sjs0.6_2.11/2.3.2/shapeless_sjs0.6_2.11-2.3.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11">
+			<revision name="10.0.2" status="release" pubdate="20161231192135" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/Binding.scala" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="3">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3926" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/ivy-10.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/binding/binding_sjs0.6_2.11/10.0.2/binding_sjs0.6_2.11-10.0.2.pom"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="10.0.2" rev-constraint-default="10.0.2" rev-constraint-dynamic="10.0.2" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="10.0.2" rev-constraint-default="10.0.2" rev-constraint-dynamic="10.0.2" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="binding_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="393455" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.binding/binding_sjs0.6_2.11/jars/binding_sjs0.6_2.11-10.0.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/binding/binding_sjs0.6_2.11/10.0.2/binding_sjs0.6_2.11-10.0.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11">
+			<revision name="3.1.1" status="release" pubdate="20161104053321" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/each" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="Apache" url="http://www.apache.org/licenses/"/>
+				<metadata-artifact status="no" details="" size="4142" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.sde/core_sjs0.6_2.11/ivy-3.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/sde/core_sjs0.6_2.11/3.1.1/core_sjs0.6_2.11-3.1.1.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="3.1.1" rev-constraint-default="3.1.1" rev-constraint-dynamic="3.1.1" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="core_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="381368" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.sde/core_sjs0.6_2.11/jars/core_sjs0.6_2.11-3.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/sde/core_sjs0.6_2.11/3.1.1/core_sjs0.6_2.11-3.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-effect_sjs0.6_2.11">
+			<revision name="7.2.7" status="release" pubdate="20161027031637" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="9">
+				<license name="BSD-style" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2963" time="0" location="/home/filip/.ivy2/cache/org.scalaz/scalaz-effect_sjs0.6_2.11/ivy-7.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_sjs0.6_2.11/7.2.7/scalaz-effect_sjs0.6_2.11-7.2.7.pom"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="3.1.1"/>
+				<artifacts>
+					<artifact name="scalaz-effect_sjs0.6_2.11" type="bundle" ext="jar" status="no" details="" size="768073" time="0" location="/home/filip/.ivy2/cache/org.scalaz/scalaz-effect_sjs0.6_2.11/bundles/scalaz-effect_sjs0.6_2.11-7.2.7.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_sjs0.6_2.11/7.2.7/scalaz-effect_sjs0.6_2.11-7.2.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-core_sjs0.6_2.11">
+			<revision name="7.2.7" status="release" pubdate="20161027031806" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="8">
+				<license name="BSD-style" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2805" time="0" location="/home/filip/.ivy2/cache/org.scalaz/scalaz-core_sjs0.6_2.11/ivy-7.2.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_sjs0.6_2.11/7.2.7/scalaz-core_sjs0.6_2.11-7.2.7.pom"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="3.1.1"/>
+				<caller organisation="org.scalaz" name="scalaz-effect_sjs0.6_2.11" conf="compile, runtime" rev="7.2.7" rev-constraint-default="7.2.7" rev-constraint-dynamic="7.2.7" callerrev="7.2.7"/>
+				<artifacts>
+					<artifact name="scalaz-core_sjs0.6_2.11" type="bundle" ext="jar" status="no" details="" size="21633523" time="0" location="/home/filip/.ivy2/cache/org.scalaz/scalaz-core_sjs0.6_2.11/bundles/scalaz-core_sjs0.6_2.11-7.2.7.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_sjs0.6_2.11/7.2.7/scalaz-core_sjs0.6_2.11-7.2.7.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="macro-compat_2.11">
+			<revision name="1.1.1" status="release" pubdate="20160215115037" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/milessabin/macro-compat" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2964" time="0" location="/home/filip/.ivy2/cache/org.typelevel/macro-compat_2.11/ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.11/1.1.1/macro-compat_2.11-1.1.1.pom"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="3.1.1"/>
+				<caller organisation="com.chuusai" name="shapeless_2.11" conf="compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="2.3.2"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="10.0.2"/>
+				<caller organisation="com.chuusai" name="shapeless_sjs0.6_2.11" conf="compile, runtime" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="2.3.2"/>
+				<artifacts>
+					<artifact name="macro-compat_2.11" type="jar" ext="jar" status="no" details="" size="3142" time="0" location="/home/filip/.ivy2/cache/org.typelevel/macro-compat_2.11/jars/macro-compat_2.11-1.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.11/1.1.1/macro-compat_2.11-1.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.thoughtworks.enableIf" name="enableif_2.11">
+			<revision name="1.1.4" status="release" pubdate="20161104045127" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/ThoughtWorksInc/enableIf.scala" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="Apache" url="http://www.apache.org/licenses/"/>
+				<metadata-artifact status="no" details="" size="2929" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.enableIf/enableif_2.11/ivy-1.1.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/thoughtworks/enableIf/enableif_2.11/1.1.4/enableif_2.11-1.1.4.pom"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="1.1.4" rev-constraint-default="1.1.4" rev-constraint-dynamic="1.1.4" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="enableif_2.11" type="jar" ext="jar" status="no" details="" size="30018" time="0" location="/home/filip/.ivy2/cache/com.thoughtworks.enableIf/enableif_2.11/jars/enableif_2.11-1.1.4.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/thoughtworks/enableIf/enableif_2.11/1.1.4/enableif_2.11-1.1.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-js" name="scalajs-dom_sjs0.6_2.11">
+			<revision name="1.0.0" status="release" pubdate="20200212103050" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scala-js.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master, runtime(*), master(compile), compile(*)" position="1">
+				<license name="MIT" url="http://opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="2942" time="0" location="/home/filip/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/ivy-1.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/1.0.0/scalajs-dom_sjs0.6_2.11-1.0.0.pom"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="1.0.0" rev-constraint-default="1.0.0" rev-constraint-dynamic="1.0.0" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="0.9.1" rev-constraint-default="0.9.1" rev-constraint-dynamic="0.9.1" callerrev="0.6.2"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.9.1" rev-constraint-default="0.9.1" rev-constraint-dynamic="0.9.1" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="scalajs-dom_sjs0.6_2.11" type="jar" ext="jar" status="no" details="" size="2068962" time="0" location="/home/filip/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-1.0.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/1.0.0/scalajs-dom_sjs0.6_2.11-1.0.0.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="0.9.1" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<evicted-by rev="1.0.0"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="0.9.1" rev-constraint-default="0.9.1" rev-constraint-dynamic="0.9.1" callerrev="0.6.2"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.9.1" rev-constraint-default="0.9.1" rev-constraint-dynamic="0.9.1" callerrev="10.0.2"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-js" name="scalajs-library_2.11">
+			<revision name="0.6.28" status="release" pubdate="20190523173943" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.scala-js.org/" extra-info.apiURL="http://www.scala-js.org/api/scalajs-library/0.6.28/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master, default, default(compile)" position="2">
+				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2993" time="0" location="/home/filip/.ivy2/cache/org.scala-js/scalajs-library_2.11/ivy-0.6.28.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.28/scalajs-library_2.11-0.6.28.pom"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="3.1.1"/>
+				<caller organisation="org.scala-js" name="scalajs-dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.28" rev-constraint-default="0.6.28" rev-constraint-dynamic="0.6.28" callerrev="1.0.0"/>
+				<caller organisation="org.scalaz" name="scalaz-effect_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="7.2.7"/>
+				<caller organisation="org.scalaz" name="scalaz-core_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="7.2.7"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="0.6.17" rev-constraint-default="0.6.17" rev-constraint-dynamic="0.6.17" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="0.6.2"/>
+				<caller organisation="com.lihaoyi" name="sourcecode_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="0.1.3"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="1.1.1"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.chuusai" name="shapeless_sjs0.6_2.11" conf="compile, runtime" rev="0.6.10" rev-constraint-default="0.6.10" rev-constraint-dynamic="0.6.10" callerrev="2.3.2"/>
+				<artifacts>
+					<artifact name="scalajs-library_2.11" type="jar" ext="jar" status="no" details="" size="6953902" time="0" location="/home/filip/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.28.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.28/scalajs-library_2.11-0.6.28.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+			<revision name="0.6.17" status="release" pubdate="20170603012622" resolver="sbt-chain" artresolver="sbt-chain" evicted="latest-revision" evicted-reason="" homepage="http://scala-js.org/" extra-info.apiURL="http://www.scala-js.org/api/scalajs-library/0.6.17/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="-1">
+				<license name="BSD New" url="https://github.com/scala-js/scala-js/blob/master/LICENSE"/>
+				<metadata-artifact status="no" details="" size="2998" time="0" location="/home/filip/.ivy2/cache/org.scala-js/scalajs-library_2.11/ivy-0.6.17.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.17/scalajs-library_2.11-0.6.17.pom"/>
+				<evicted-by rev="0.6.28"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="0.6.17" rev-constraint-default="0.6.17" rev-constraint-dynamic="0.6.17" callerrev="0.1-SNAPSHOT"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="0.6.10" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*)" position="-1">
+				<evicted-by rev="0.6.28"/>
+				<caller organisation="com.chuusai" name="shapeless_sjs0.6_2.11" conf="compile, runtime" rev="0.6.10" rev-constraint-default="0.6.10" rev-constraint-dynamic="0.6.10" callerrev="2.3.2"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+			<revision name="0.6.13" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
+				<evicted-by rev="0.6.28"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="3.1.1"/>
+				<caller organisation="org.scalaz" name="scalaz-effect_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="7.2.7"/>
+				<caller organisation="org.scalaz" name="scalaz-core_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="7.2.7"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="0.6.2"/>
+				<caller organisation="com.lihaoyi" name="sourcecode_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="0.1.3"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="1.1.1"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="0.6.13" rev-constraint-default="0.6.13" rev-constraint-dynamic="0.6.13" callerrev="10.0.2"/>
+				<caller organisation="com.chuusai" name="shapeless_sjs0.6_2.11" conf="compile, runtime" rev="0.6.10" rev-constraint-default="0.6.10" rev-constraint-dynamic="0.6.10" callerrev="2.3.2"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.11" status="release" pubdate="20170413215043" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2829" time="0" location="/home/filip/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.11/scala-reflect-2.11.11.pom"/>
+				<caller organisation="com.thoughtworks.enableIf" name="enableif_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.1.4"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="3.1.1"/>
+				<caller organisation="org.scalactic" name="scalactic_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="3.0.0"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="4602981" time="0" location="/home/filip/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.11/scala-reflect-2.11.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.11" status="release" pubdate="20170413215031" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2656" time="0" location="/home/filip/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.pom"/>
+				<caller organisation="com.thoughtworks.enableIf" name="enableif_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.1.4"/>
+				<caller organisation="com.thoughtworks.sde" name="core_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="3.1.1"/>
+				<caller organisation="org.scala-js" name="scalajs-dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.0.0"/>
+				<caller organisation="org.scala-js" name="scalajs-library_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.6.17"/>
+				<caller organisation="org.scala-js" name="scalajs-library_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.6.28"/>
+				<caller organisation="org.scalaz" name="scalaz-core_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="7.2.7"/>
+				<caller organisation="dama" name="dama_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.1-SNAPSHOT"/>
+				<caller organisation="com.lihaoyi" name="scalatags_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.6.2"/>
+				<caller organisation="com.lihaoyi" name="sourcecode_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.1.3"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.1.1"/>
+				<caller organisation="com.thoughtworks.extractor" name="extractor_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.1.1"/>
+				<caller organisation="com.thoughtworks.binding" name="binding_sjs0.6_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="10.0.2"/>
+				<caller organisation="com.chuusai" name="shapeless_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="2.3.2"/>
+				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="2.11.11"/>
+				<caller organisation="org.typelevel" name="macro-compat_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.1.1"/>
+				<caller organisation="org.scalaz" name="scalaz-effect_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="7.2.7"/>
+				<caller organisation="com.chuusai" name="shapeless_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="2.3.2"/>
+				<caller organisation="org.scalactic" name="scalactic_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="3.0.0"/>
+				<caller organisation="org.scala-lang.modules" name="scala-xml_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="1.0.6"/>
+				<caller organisation="com.thoughtworks.binding" name="dom_sjs0.6_2.11" conf="default, compile, runtime, master" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="10.0.2"/>
+				<caller organisation="com.thoughtworks.binding" name="xmlextractor_sjs0.6_2.11" conf="compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="10.0.2"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5748808" time="0" location="/home/filip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
