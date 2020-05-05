@@ -1,9 +1,0 @@
-[0m[[0mdebug[0m] [0mStarting process: node[0m
-[0m[[0mdebug[0m] [0mStarting process: node[0m
-[0m[[31merror[0m] [0m(node:5914) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.[0m
-[0m[[0mdebug[0m] [0mStarting process: node[0m
-[0m[[0mdebug[0m] [0mStarting process: node[0m
-[0m[[0mdebug[0m] [0mStarting process: node[0m
-[0m[[31merror[0m] [0m(node:5941) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.[0m
-[0m[[31merror[0m] [0m(node:5942) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.[0m
-[0m[[31merror[0m] [0m(node:5927) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.[0m

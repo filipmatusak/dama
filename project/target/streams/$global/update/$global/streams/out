@@ -1,11 +1,11 @@
-[info] Updating {file:/home/filip/scalaJS/dama-ui/project/}dama-ui-build...
-[debug] :: resolving dependencies :: default#dama-ui-build;0.1-SNAPSHOT
+[info] Updating {file:/home/filip/scalaJS/dama/project/}dama-build...
+[debug] :: resolving dependencies :: default#dama-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-sbt#global-plugins;0.0 ...
@@ -13,7 +13,7 @@
 [debug] 	found org.scala-sbt#global-plugins;0.0 in inter-project
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-js#sbt-scalajs;0.6.17 ...
@@ -361,15 +361,15 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving com.lihaoyi#workbench;0.3.1 ...
 [debug] sbt-chain: Checking cache for: dependency: com.lihaoyi#workbench;0.3.1 {compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: com.lihaoyi#workbench;0.3.1
 [debug] 	found com.lihaoyi#workbench;0.3.1 in sbt-chain
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -1219,20 +1219,20 @@
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->com.lihaoyi#autowire_2.10;0.2.6 [runtime->compile]
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->com.lihaoyi#upickle_2.10;0.4.3 [runtime->runtime(*)]
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->com.lihaoyi#upickle_2.10;0.4.3 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'runtime'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -1525,13 +1525,13 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -2332,14 +2332,14 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'test'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [test]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -2348,7 +2348,7 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -2675,15 +2675,15 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -3522,18 +3522,18 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] resolving dependencies for configuration 'provided'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [info] Resolving org.scala-sbt#sbt;0.13.15 ...
@@ -5310,11 +5310,11 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'optional'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'compile-internal'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile-internal]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile-internal]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -5325,7 +5325,7 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -5686,7 +5686,7 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -5695,8 +5695,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -6573,16 +6573,16 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [optional]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -8418,10 +8418,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'runtime-internal'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [runtime-internal]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [runtime-internal]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -8432,7 +8432,7 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -8793,7 +8793,7 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -8802,8 +8802,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -9680,16 +9680,16 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [optional]
 [debug] resolving dependencies for configuration 'test-internal'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [test-internal]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [test]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [runtime]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [test-internal]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [test]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [runtime]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#global-plugins;0.0 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -9704,7 +9704,7 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-js#sbt-scalajs;0.6.17 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -10133,7 +10133,7 @@
 [debug] == resolving dependencies org.scala-js#sbt-scalajs;0.6.17->org.scala-js#scalajs-sbt-test-adapter_2.10;0.6.17 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -10146,8 +10146,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] == resolving dependencies com.lihaoyi#workbench;0.3.1->org.scala-js#sbt-scalajs;0.6.13 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
@@ -11100,16 +11100,16 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.5 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.spire-math#jawn-parser_2.10;0.8.3->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->com.lihaoyi#workbench;0.3.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[compile(*), provided(*), runtime(*), master(compile)]}
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [optional]
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [provided]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [optional]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [provided]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->default(compile)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [provided->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-sbt#sbt;0.13.15 [provided->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
@@ -13128,20 +13128,20 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {provided=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
 [debug] resolving dependencies for configuration 'plugin'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [plugin]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [plugin]
 [debug] resolving dependencies for configuration 'sources'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [sources]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [sources]
 [debug] resolving dependencies for configuration 'docs'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [docs]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [docs]
 [debug] resolving dependencies for configuration 'pom'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [pom]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [pom]
 [debug] resolving dependencies for configuration 'scala-tool'
-[debug] == resolving dependencies for default#dama-ui-build;0.1-SNAPSHOT [scala-tool]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->default]
+[debug] == resolving dependencies for default#dama-build;0.1-SNAPSHOT [scala-tool]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->default]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.10.6 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.6 {scala-tool=[default, optional(default)], provided=[default(compile)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
@@ -13207,14 +13207,14 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang#scala-reflect;2.10.6->org.scala-lang#scala-library;2.10.6 [runtime->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.6 [scala-tool->optional(default)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
@@ -13270,11 +13270,11 @@
 [debug] sbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4
 [debug] 	found org.fusesource.jansi#jansi;1.4 in sbt-chain
 [debug] == resolving dependencies org.scala-lang#jline;2.10.6->org.fusesource.jansi#jansi;1.4 [compile->compile(*)]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->default]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->runtime]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->compile]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->master]
-[debug] == resolving dependencies default#dama-ui-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->default]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->runtime]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->compile]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->master]
+[debug] == resolving dependencies default#dama-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.6 [scala-tool->optional(default)]
 [debug] ignoring unhandled DependencyDescriptorMediator: class sbt.IvyScala$OverrideScalaMediator
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
@@ -13365,21 +13365,21 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1158ms :: artifacts dl 18ms
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT compile produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-compile.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT runtime produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-runtime.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT test produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-test.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT provided produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-provided.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT optional produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-optional.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT compile-internal produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-compile-internal.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT runtime-internal produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-runtime-internal.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT test-internal produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-test-internal.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT plugin produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-plugin.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT sources produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-sources.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT docs produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-docs.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT pom produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-pom.xml
-[debug] 	report for default#dama-ui-build;0.1-SNAPSHOT scala-tool produced in /home/filip/scalaJS/dama-ui/project/target/resolution-cache/reports/default-dama-ui-build-scala-tool.xml
-[debug] 	resolve done (1158ms resolve - 18ms download)
+[debug] :: resolution report :: resolve 1682ms :: artifacts dl 19ms
+[debug] 	report for default#dama-build;0.1-SNAPSHOT compile produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-compile.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT runtime produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-runtime.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT test produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-test.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT provided produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-provided.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT optional produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-optional.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT compile-internal produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-compile-internal.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT runtime-internal produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-runtime-internal.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT test-internal produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-test-internal.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT plugin produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-plugin.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT sources produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-sources.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT docs produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-docs.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT pom produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-pom.xml
+[debug] 	report for default#dama-build;0.1-SNAPSHOT scala-tool produced in /home/filip/scalaJS/dama/project/target/resolution-cache/reports/default-dama-build-scala-tool.xml
+[debug] 	resolve done (1682ms resolve - 19ms download)
 [info] Done updating.
 [warn] There may be incompatibilities among your library dependencies.
 [warn] Here are some of the libraries that were evicted:
